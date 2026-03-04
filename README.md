@@ -2,7 +2,7 @@
 
 I build **AI agent systems**.
 
-My work focuses on agent architecture, long-term memory, and real-time interaction. Member of [Moeru AI](https://github.com/moeru-ai)
+My work focuses on agent architecture, long-term memory, and real-time interaction. Member of [Moeru AI](https://github.com/moeru-ai).
 
 ---
 
