@@ -1,12 +1,13 @@
 # 👋 Hi, I'm Lilia Chen
 
-I build **AI agent systems**.
+I build **AI agent systems** — memory, embodied interaction, and computer-use infrastructure.
 
-My work focuses on agent architecture, long-term memory, and real-time interaction. Member of [Moeru AI](https://github.com/moeru-ai).
+Core contributor @[Moeru AI](https://github.com/moeru-ai). 🏠 London · Open to work
 
 ## I'm working on
 
 - **[AIRI](https://github.com/moeru-ai/airi)** — an extensible platform for building AI agents with avatar interfaces.
+- **[CareerDeepSeek](https://github.com/Lilia-Chen/CareerDeepSeek)** - an agent that helps me to search opportunities. Current foucs of this project is the computer-use layer.
 - **[plast-mem](https://github.com/moeru-ai/plast-mem)** — a biologically-inspired memory system for AI agents.
 
 ## Interests
