@@ -4,7 +4,7 @@ I build **AI agent systems** — memory, embodied interaction, and computer-use 
 
 Core contributor @[Moeru AI](https://github.com/moeru-ai). 🏠 London · Open to work
 
-[![GitHub Roast](https://githubroast.dev/api/card/Lilia-Chen?theme=light)](https://githubroast.dev/u/Lilia-Chen)
+<a href="https://githubroast.dev/u/Lilia-Chen"><img src="https://githubroast.dev/api/card/Lilia-Chen?theme=light" alt="GitHub Roast" width="400" /></a>
 
 ## I'm working on
 
